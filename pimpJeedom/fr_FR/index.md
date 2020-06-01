@@ -132,7 +132,7 @@ De plus une pastille de couleur orange avec un point d'exclamation apparait dans
 En cliquant sur le widget disposant d'une mise à jour on constate que le champ **Version update** fait apparaitre la mention *"need_update"* et qu'un bouton de couleur orange nommé **Mettre à jour** est apparu. Il suffit de cliquer sur ce bouton pour procéder à la mise à jour du widget :   
 ![Mettre à jour Widget by Salvialf](../img/updateWidgetSalvialf.png "Mettre à jour Widget by Salvialf")  
 
-# Évolutions
+# Évolutions prévues
 
 Énormément d'évolutions sont prévues pour ce plugin afin de pouvoir modifier facilement votre Jeedom.
 
