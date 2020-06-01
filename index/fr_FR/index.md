@@ -10,7 +10,7 @@ lang: fr_FR
 
 [<img width="77" src="{{site.market}}/filestore/market/plugin/images/pimpJeedom_icon.png">]({{site.baseurl}}/pimpJeedom/{{page.lang}})
 
-Plugin permettant de personnaliser Jeedom.
+Plugin permettant de personnaliser Jeedom par la gestion simplifiée des widgets tiers et de ceux réalisés par Salvialf.
 
 - [Documentation]({{site.baseurl}}/pimpJeedom/{{page.lang}})
 - [Changelog]({{site.baseurl}}/pimpJeedom/{{page.lang}}/changelog)

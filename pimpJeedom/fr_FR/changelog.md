@@ -5,9 +5,9 @@ lang: fr_FR
 pluginId: pimpJeedom
 ---
 
-# 2020-05-28
+# 28-05-2020
 
-- Première mise à disposition du plugin en BETA.
+- Mise à disposition du plugin en BETA.
 
 # Documentation
 
