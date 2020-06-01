@@ -5,7 +5,13 @@ lang: fr_FR
 pluginId: pimpJeedom
 ---
 
-# 28-05-2020
+# Changelog
+
+## 01-06-2020
+
+- Passage du plugin en STABLE.
+
+## 28-05-2020
 
 - Mise à disposition du plugin en BETA.
 

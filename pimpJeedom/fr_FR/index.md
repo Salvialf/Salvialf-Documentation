@@ -74,6 +74,10 @@ Pour voir et modifier le code du widget.
 
 Pour accéder aux widgets réalisés par Salvialf cliquez sur le bouton **Widgets made by Salvialf** ou sur l'onglet **Widgets by** ![Salvialf](../../assets/images/tuxalf.png "Salvialf") :    
 ![Widgets by Salvialf](../img/bySalvialf.png "Widgets by Salvialf")
+
+Sur la page d'accueil nous retrouvons en haut à droite un bouton bleu permettant de vérifier les mises à jour de widgets ainsi qu'une icône en forme de livre qui ouvre un lien vers la documentation du plugin spécifique à cette partie.
+
+Au milieu se trouve les tuiles représentant la liste des widgets disponibles.
 >**Info**      
 >Les widgets non installés apparaissent en grisés et sont colorés si le widget est installé.
 
@@ -133,3 +137,7 @@ En cliquant sur le widget disposant d'une mise à jour on constate que le champ 
 Énormément d'évolutions sont prévues pour ce plugin afin de pouvoir modifier facilement votre Jeedom.
 
 Dans un 1er temps chaque widget disposera d'une documentation avec un accès direct depuis le plugin.
+
+# Changelog
+
+[Voir le changelog]({{site.baseurl}}/{{page.pluginId}}/{{page.lang}}/changelog)

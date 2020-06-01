@@ -1,7 +1,7 @@
 ---
 langs: [fr_FR]
 baseurl: "/Salvialf-Documentation" # the subpath of your site, e.g. /blog
-# url: "/" # the base hostname & protocol for your site
+url: "/" # the base hostname & protocol for your site
 sass:
   sass_dir: assets/css
   style: compressed
