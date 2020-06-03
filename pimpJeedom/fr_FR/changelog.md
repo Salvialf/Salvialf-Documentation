@@ -7,11 +7,14 @@ pluginId: pimpJeedom
 
 # Changelog
 
+## 03-06-2020
+
+- Optimisations générales + ajout de logs pour la partie widgets tiers (BETA).
+
 ## 02-06-2020
 
 - Correction de messages générés dans le log http.error (STABLE).
 - Optimisation des pages détaillées des widgets tiers (BETA).
-
 
 ## 01-06-2020
 
