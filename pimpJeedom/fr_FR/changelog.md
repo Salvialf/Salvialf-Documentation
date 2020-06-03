@@ -9,7 +9,7 @@ pluginId: pimpJeedom
 
 ## 03-06-2020
 
-- Optimisations générales + ajout de logs pour la partie widgets tiers (BETA).
+- Widgets Tiers : Optimisations générales + ajout de logs (BETA).
 
 ## 02-06-2020
 
