@@ -10,6 +10,7 @@ pluginId: pimpJeedom
 ## 03-06-2020
 
 - Widgets Tiers : Optimisations générales + ajout de logs (BETA).
+- Correction du décalage sur la page d'un widget (BETA).
 
 ## 02-06-2020
 
