@@ -11,6 +11,7 @@ pluginId: pimpJeedom
 
 - Widgets Tiers : Optimisations générales + ajout de logs (BETA).
 - Correction du décalage sur la page d'un widget (BETA).
+- Affichage de l'équipement complet en prévisualisation (STABLE).
 
 ## 02-06-2020
 
