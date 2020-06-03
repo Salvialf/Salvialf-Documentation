@@ -7,6 +7,10 @@ pluginId: SliderButton
 
 # Changelog
 
+## 03-06-2020
+
+- Correction du paramètre **couleur_valeur** qui n'était pas pris en compte en disposition tableau en présence de CSS dans la case.
+
 ## 01-06-2020
 
 - Ajout du paramètre **couleur_valeur** pour modifier la couleur de la valeur au centre.
