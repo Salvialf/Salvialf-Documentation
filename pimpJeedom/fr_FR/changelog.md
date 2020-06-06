@@ -11,7 +11,7 @@ pluginId: pimpJeedom
 
 - Prise en charge de la langue anglaise.
 
-- Mise en place de 2 versions des widgets ("*beta*" et "*stable*") correspondants aux 2 versions du plugin.
+- Mise en place de 2 versions des widgets ("*beta*" ou "*stable*") correspondants aux 2 versions du plugin.
 
 - Réorganisation des paramètres optionnels et passage définitif en langue anglaise pour l'internationalisation. Ceci peut avoir pour effet de réinitialiser certains paramètres déjà renseignés.
 
