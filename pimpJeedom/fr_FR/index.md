@@ -33,7 +33,7 @@ Le plugin liste automatiquement l'ensemble des widgets tiers présents dans le r
 
 ### Ajouter un widget Tiers
 
-Pour ajouter un widget tiers cliquez sur le bouton **"Ajouter un Widgets Tiers"** :    
+Pour ajouter un widget tiers cliquez sur le bouton **"Ajouter un Widget Tiers"** :    
 ![Widgets Tiers - Ajouter](../img/AddThirdWidget.png "Widgets Tiers - Ajouter")
 
 Une fenêtre s'ouvre afin de renseigner les caractéristiques du nouveau widget *(Nom, Version, Type, Sous-Type)*, Validez en cliquant sur le bouton **Créer** :    
