@@ -11,7 +11,8 @@ pluginId: pimpJeedom
 
 - Prise en charge de la langue anglaise.
 - Mise en place de 2 versions des widgets ("*beta*" et "*stable*") correspondants aux 2 versions du plugin.
-- Réorganisation des paramètres optionnels et passage définitif en langue anglaise pour l'internationalisation. Ceci peut avoir pour effet de réinitialiser certains paramètres déjà renseignés. *(il est conseillé de vérifier qu'il ne reste pas d'anciens paramètres optionnels renseignés dans l'onglet "Affichage" des paramètres de chaque commande et les supprimer le cas échéant)*
+- Réorganisation des paramètres optionnels et passage définitif en langue anglaise pour l'internationalisation. Ceci peut avoir pour effet de réinitialiser certains paramètres déjà renseignés.
+
 - Sur les widgets qui le propose le plugin ira chercher directement les fichiers `*.ttf` du répertoire `data/fonts/` pour les appliquer sur le widget.
 
 ## 03-06-2020
