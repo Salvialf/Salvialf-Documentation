@@ -10,11 +10,8 @@ pluginId: pimpJeedom
 ## 06-06-2020 (BETA)
 
 - Prise en charge de la langue anglaise.
-
 - Mise en place de 2 versions des widgets ("*beta*" ou "*stable*") correspondants aux 2 versions du plugin.
-
 - Réorganisation des paramètres optionnels et passage définitif en langue anglaise pour l'internationalisation. Ceci peut avoir pour effet de réinitialiser certains paramètres déjà renseignés.
-
 - Sur les widgets qui le propose le plugin ira chercher directement les fichiers de polices d'écriture `*.ttf` du répertoire `data/fonts/` pour les appliquer sur le widget.
 
 ## 03-06-2020
