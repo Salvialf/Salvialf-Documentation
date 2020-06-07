@@ -24,7 +24,7 @@ Plugin permettant de personnaliser Jeedom par la gestion simplifiée des widgets
 
 [<img width="90" src="../../ClignoBLT/img/ClignoBLT.png">]({{site.baseurl}}/ClignoBLT/{{page.lang}})
 
-Widget
+Widget permettant de faire clignoter une valeur info/numérique et de l'afficher, au choix, sous la forme des widgets *Badge*, *Line* ou *Tile* du core.
 
 - [Documentation]({{site.baseurl}}/ClignoBLT/{{page.lang}})
 - [Changelog]({{site.baseurl}}/ClignoBLT/{{page.lang}}/changelog)
@@ -33,7 +33,7 @@ Widget
 
 [<img width="90" src="../../ColorCircle/img/ColorCircle.png">]({{site.baseurl}}/ColorCircle/{{page.lang}})
 
-Widget
+Superbe roue chromatique, destinée aux commandes action/couleur, permettant de sélectionner rapidement une couleur précise.
 
 - [Documentation]({{site.baseurl}}/ColorCircle/{{page.lang}})
 - [Changelog]({{site.baseurl}}/ColorCircle/{{page.lang}}/changelog)
@@ -42,7 +42,7 @@ Widget
 
 [<img width="90" src="../../ConsigneThermostat/img/ConsigneThermostat.png">]({{site.baseurl}}/ConsigneThermostat/{{page.lang}})
 
-Widget
+Widget permettant d'afficher et de modifier une consigne de température. A utiliser avec sur une commande action/curseur.
 
 - [Documentation]({{site.baseurl}}/ConsigneThermostat/{{page.lang}})
 - [Changelog]({{site.baseurl}}/ConsigneThermostat/{{page.lang}}/changelog)
@@ -51,7 +51,7 @@ Widget
 
 [<img width="90" src="../../DigitalClock/img/DigitalClock.png">]({{site.baseurl}}/DigitalClock/{{page.lang}})
 
-Widget
+Widget pour commande virtuelle info/autre permettant l'affichage de la date et de l'heure et dôté de nombreuses options de personnalisation.
 
 - [Documentation]({{site.baseurl}}/DigitalClock/{{page.lang}})
 - [Changelog]({{site.baseurl}}/DigitalClock/{{page.lang}}/changelog)
@@ -60,7 +60,7 @@ Widget
 
 [<img width="90" src="../../GaugeIMG/img/GaugeIMG.png">]({{site.baseurl}}/GaugeIMG/{{page.lang}})
 
-Widget
+De superbes jauges animées et colorées pour vos commandes info/numériques.
 
 - [Documentation]({{site.baseurl}}/GaugeIMG/{{page.lang}})
 - [Changelog]({{site.baseurl}}/GaugeIMG/{{page.lang}}/changelog)
@@ -69,7 +69,7 @@ Widget
 
 [<img width="90" src="../../Linky/img/Linky.png">]({{site.baseurl}}/Linky/{{page.lang}})
 
-Widget
+Afficher vos relevés de consommation électrique dans un widget aux couleurs du compteur *Linky*. A appliquer sur 4 commandes info/numérique.
 
 - [Documentation]({{site.baseurl}}/Linky/{{page.lang}})
 - [Changelog]({{site.baseurl}}/Linky/{{page.lang}}/changelog)
@@ -78,7 +78,7 @@ Widget
 
 [<img width="90" src="../../ShutterSlider/img/ShutterSlider.png">]({{site.baseurl}}/ShutterSlider/{{page.lang}})
 
-Widget
+Widget visuellement réaliste permettant de contrôler les ouvrants tels que les volets ou les portes de garage. Ce widget est destiné aux commandes action/curseur.
 
 - [Documentation]({{site.baseurl}}/ShutterSlider/{{page.lang}})
 - [Changelog]({{site.baseurl}}/ShutterSlider/{{page.lang}}/changelog)
