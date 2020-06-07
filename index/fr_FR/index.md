@@ -14,15 +14,15 @@ Plugin permettant de personnaliser Jeedom par la gestion simplifiée des widgets
 
 - [Documentation]({{site.baseurl}}/pimpJeedom/{{page.lang}})
 - [Changelog]({{site.baseurl}}/pimpJeedom/{{page.lang}}/changelog)
-- <a href="{{site.market}}/index.php?v=d&plugin_id=4005" target="_blank">Market</a>
+- <a href="{{site.market}}/index.php?v=d&plugin_id=4005" target="\_blank">Market</a>
 
 # Widgets :
 
-## SliderButton
+## SliderButton (action/curseur)
 
 [<img width="90" src="../../SliderButton/img/SliderButton.png">]({{site.baseurl}}/SliderButton/{{page.lang}})
 
-Widget pour commandes action/curseur au visuel de boutons + & - inspiré du widget core "Button". Largement personnalisable avec ses 8 paramètres optionnels.
+Widget pour commandes action/curseur au visuel de boutons + & - inspiré du widget core "Button". Largement personnalisable avec ses nombreux paramètres optionnels.
 
 - [Documentation]({{site.baseurl}}/SliderButton/{{page.lang}})
 - [Changelog]({{site.baseurl}}/SliderButton/{{page.lang}}/changelog)
