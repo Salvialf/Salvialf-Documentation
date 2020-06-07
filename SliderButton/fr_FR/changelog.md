@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Changelog SliderButton
+title: SliderButton changelog
 lang: fr_FR
 pluginId: SliderButton
 ---
