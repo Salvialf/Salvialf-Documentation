@@ -9,7 +9,7 @@ pluginId: SliderButton
 
 Ce widget pour commandes action/curseur est inspiré du widget core *"Button"*. Il allie design moderne et élégant, fonctionnalités et possibilités de personnalisation avancées.
 
-![Sliderbutton - gif](https://github.com/Salvialf/JEEDOM-Widget-SliderButton/blob/master/doc/SliderButton.gif?raw=true "SliderButton - gif")
+![Sliderbutton - gif]({{site.baseurl}}/{{page.pluginId}}/img/SliderButton.gif "SliderButton - gif")
 
 > **Astuce**    
 En plus des boutons « **-** » et « **+** », il est possible de saisir la valeur en cliquant directement dessus.    
@@ -17,7 +17,7 @@ Il faut alors soit cliquer en dehors du widget pour valider ou appuyer sur la to
 
 Entièrement personnalisable grâce à ses nombreux paramètres optionnels *(voir chapitre "Les paramètres optionnels")*, ce widget propose 2 thèmes *(dark/light)* ainsi que 8 couleurs de boutons différentes *(turquoise, green, yellow, orange, red, pink, purple, neutral)* :
 
-![Sliderbutton - color](https://github.com/Salvialf/JEEDOM-Widget-SliderButton/blob/master/doc/SliderButton_Colors.png?raw=true "SliderButton - colors")
+![Sliderbutton - colors]({{site.baseurl}}/{{page.pluginId}}/img/SliderButton_Colors.png "SliderButton - colors")
 
 # Installation et mises à jour
 
@@ -35,7 +35,7 @@ Les fichiers peuvent être récupérés dans un dossier compressé via ce lien :
 
 Les répertoires `dashboard` et/ou `mobile` doivent être copiés dans le répertoire `data/customTemplates/` à l'aide du plugin *JeeXplorer*.
 
-Appliquer le widget sur une commande action/curseur à partir de l’onglet *Affichage* de la configuration de la commande, en choisissant **Customtemp/SliderButton** dans le menu déroulant.
+Appliquer le widget sur une commande action/curseur à partir de l’onglet *Affichage* de la configuration de la commande, en choisissant **Customtemp/{{page.pluginId}}** dans le menu déroulant.
 
 En cas de mise à jour du code du widget il est nécessaire de télécharger les nouveaux fichiers et de les copier dans le répertoire `data/customTemplates/` en remplacement des anciens fichiers.
 
@@ -82,7 +82,7 @@ Le plugin <a href="{{site.market}}/index.php?v=d&plugin_id=4005" target="\_blank
 
 Rendez vous sur la page du widget dans le plugin. Sélectionnez la commande que vous souhaitez personnaliser en cochant la case présente juste avant le nom de la commande pour ouvrir le panneau de personnalisation :
 
-![Sliderbutton - Params_pimpJeedom](https://github.com/Salvialf/JEEDOM-Widget-SliderButton/blob/master/doc/Params_pimpJeedom.png?raw=true "SliderButton - Params_pimpJeedom")
+![Sliderbutton - Params_pimpJeedom]({{site.baseurl}}/{{page.pluginId}}/img/Params_pimpJeedom.png "SliderButton - Params_pimpJeedom")
 
 > **Bon à savoir**
 > - Les polices d'écriture présentes dans le répertoire `/data/fonts/` et ayant une extension de fichier `ttf` sont automatiquement ajoutées dans la liste du paramètre **font**.
@@ -93,7 +93,7 @@ Rendez vous sur la page du widget dans le plugin. Sélectionnez la commande que 
 Pour appliquer de nouveaux paramètres optionnels, il faut se rendre dans la configuration de la commande puis onglet *Affichage* -> **Paramètres optionnels widget**.    
 Cliquez sur **Ajouter** et renseigner le nom et la valeur de chaque paramètre :
 
-![Sliderbutton - Params_exemple](https://github.com/Salvialf/JEEDOM-Widget-SliderButton/blob/master/doc/Params_example.png?raw=true "SliderButton - Params_exemple")
+![Sliderbutton - Params_exemple]({{site.baseurl}}/{{page.pluginId}}/img/Params_example.png "SliderButton - Params_exemple")
 
 # Remerciements
 
