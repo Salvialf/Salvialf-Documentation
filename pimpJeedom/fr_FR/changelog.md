@@ -7,6 +7,12 @@ pluginId: pimpJeedom
 
 # Changelog
 
+## 08-06-2020 (BETA)
+
+- Redimensionnement automatique des tuiles de prévisualisation si plus larges que l'espace disponible et ajout de la possibilité de réduire la tuile en largeur.
+- Ajout d'un bouton qui renvoie vers la documentation dédiée (icône livre) de chaque widget by Salvialf. Le contenu est encore en cours de rédaction.
+- Ajout du widget **PresenceData** pour commandes info/binaire.
+
 ## 06-06-2020 (BETA)
 
 - Prise en charge de la langue anglaise.

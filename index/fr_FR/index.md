@@ -74,6 +74,15 @@ Afficher vos relevés de consommation électrique dans un widget aux couleurs du
 - [Documentation]({{site.baseurl}}/Linky/{{page.lang}})
 - [Changelog]({{site.baseurl}}/Linky/{{page.lang}}/changelog)
 
+## PresenceData (info/binaire)
+
+[<img width="90" src="../../PresenceData/img/PresenceData.png">]({{site.baseurl}}/Linky/{{page.lang}})
+
+Visualiser en un seul coup d'oeil les informations de présence
+
+- [Documentation]({{site.baseurl}}/PresenceData/{{page.lang}})
+- [Changelog]({{site.baseurl}}/PresenceData/{{page.lang}}/changelog)
+
 ## ShutterSlider (action/curseur)
 
 [<img width="90" src="../../ShutterSlider/img/ShutterSlider.png">]({{site.baseurl}}/ShutterSlider/{{page.lang}})
