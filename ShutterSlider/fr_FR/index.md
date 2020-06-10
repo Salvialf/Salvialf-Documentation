@@ -39,38 +39,38 @@ En cas de mise à jour du code du widget il est nécessaire de télécharger les
 
 ## Liste des paramètres disponibles
 
-### image
+* ### image
 Permet de choisir l'image de fond parmis les 16 disponibles : **bay_white, bay_white2, bay_black, bay_black2, bay_wood, bay_wood2, window, window1, window2, window3, window4, velux, garage, garage1, garage2, garage3**.  *(bay_white par défaut)*
 > **A savoir**    
 Il est possible d'inclure les images de fond de son choix en plaçant le(s) fichier(s) `*.png` dans le répertoire **/data/img/ShutterSlider/**.
 
-### offset
+* ### offset
 Permet de prendre en compte le temps de décollement des lames. *(null par défaut)*
 > **Usage**    
 Positionner le volet à environ 1% d’ouverture physique. Le pourcentage de décollement correspond à la valeur d’ouverture qui apparaît alors sur le widget. Renseigner cette valeur pour le paramètre **offset**.
 
-### rails
+* ### rails
 Pour choisir le style des lames parmis les 3 disponibles : **light, dark, wood**. *(light par défaut)*
 
-### handle
+* ### handle
 Pour choisir le style de la première lame qui permet le déplacement de l'ouvrant : **light, dark, wood**. *(dark par défaut)*
 
-### height
+* ### height
 Valeur en pixels permettant de modifier la hauteur du widget. *(90 par défaut)*
 
-### width
+* ### width
 Valeur en pixels permettant de modifier la largeur du widget. *(90 par défaut)*
 
-### invert
+* ### invert
 Pour inverser le positionnement de l'ouvrant sur les équipements qui le nécessitent. **checked** ou **unchecked** *(unchecked par défaut)*
 
-### position
+* ### position
 Pour afficher ou non la position sous le visuel. **checked** ou **unchecked** *(checked par défaut)*
 
-### time
+* ### time
 Pour visualiser les informations de temps depuis le dernier changement d'état. 3 formats sont possibles : **duration** affiche la durée, **date** affiche le jour et l'heure, **hour** affiche l'heure avec les secondes du dernier changement d'état. *(off par défaut)*
 
-### CSS-time
+* ### CSS-time
 Permet de personnaliser la présentation du paramètre **time** en code CSS.
 
 ## Avec le plugin Pimp my Jeedom

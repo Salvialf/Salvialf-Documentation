@@ -45,37 +45,37 @@ En cas de mise à jour du code du widget il est nécessaire de télécharger les
 
 ## Liste des paramètres disponibles
 
-### theme
+* ### theme
 Permet de choisir le thème du widget entre **dark** et **light**. *(light par défaut)*
 
-### step
+* ### step
 Permet de modifier le "pas" du widget. *(0.5 par défaut)*
 
-### minus
+* ### minus
 Permet de choisir la couleur du bouton "moins"(-) parmis les 8 disponibles : **turquoise, green, yellow, orange, red, pink, purple, neutral**. *(turquoise par défaut)*
 
-### plus
+* ### plus
 Permet de choisir la couleur du bouton "plus"(+) parmis les 8 disponibles : **turquoise, green, yellow, orange, red, pink, purple, neutral**. *(red par défaut)*
 
-### height
+* ### height
 Valeur en pixels permettant de modifier la hauteur du widget. *(40 par défaut)*
 
-### width
+* ### width
 Valeur en pixels permettant de modifier la largeur du widget. *(50 par défaut)*
 
-### font
+* ### font
 Permet de changer la police d'écriture de la valeur centrale. Les fichiers `*.ttf` doivent se trouver dans le répertoire Jeedom `/data/fonts/`. Seul le nom du fichier est à renseigner sans l'extension `.ttf`. *("nasalization" par défaut)*
 
-### font-size
+* ### font-size
 Pour choisir la taille de la police d'écriture en pixels. *(12 par défaut)*
 
-### font-color
+* ### font-color
 Permet de choisir la couleur de la police d'écriture. *(black par défaut)*
 
-### time
+* ### time
 Pour visualiser les informations de temps depuis le dernier changement d'état. 3 formats sont possibles : **duration** affiche la durée, **date** affiche le jour et l'heure, **hour** affiche l'heure avec les secondes du dernier changement d'état. *(off par défaut)*
 
-### CSS-time
+* ### CSS-time
 Permet de personnaliser la présentation du paramètre **time** en code CSS.
 
 ## Avec le plugin Pimp my Jeedom
