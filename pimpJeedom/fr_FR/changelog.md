@@ -7,6 +7,12 @@ pluginId: pimpJeedom
 
 # Changelog
 
+## 10-06-2020 (BETA)
+
+- Sur les widgets qui le propose le plugin ira chercher directement les images `*.png` dans le répertoire `/data/img/Nom_du_Widget/` pour les ajouter aux images disponibles par défaut.
+- Ajout d'un bouton permettant d'envoyer ses propres images ou fichiers de polices d'écriture directement dans le bon répertoire selon les options du widget.
+- Correction de la prévisualisation des widgets tiers.
+
 ## 08-06-2020 (BETA)
 
 - Redimensionnement automatique des tuiles de prévisualisation si plus larges que l'espace disponible et ajout de la possibilité de réduire la tuile en largeur.
@@ -18,7 +24,7 @@ pluginId: pimpJeedom
 - Prise en charge de la langue anglaise.
 - Mise en place de 2 versions des widgets ("*beta*" ou "*stable*") correspondants aux 2 versions du plugin.
 - Réorganisation des paramètres optionnels et passage définitif en langue anglaise pour l'internationalisation. Ceci peut avoir pour effet de réinitialiser certains paramètres déjà renseignés.
-- Sur les widgets qui le propose le plugin ira chercher directement les fichiers de polices d'écriture `*.ttf` du répertoire `data/fonts/` pour les appliquer sur le widget.
+- Sur les widgets qui le propose le plugin ira chercher directement les fichiers de polices d'écriture `*.ttf` du répertoire `/data/fonts/` pour les appliquer sur le widget.
 
 ## 03-06-2020
 
