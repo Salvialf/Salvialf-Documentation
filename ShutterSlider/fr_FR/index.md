@@ -3,6 +3,8 @@ layout: default
 title: ShutterSlider
 lang: fr_FR
 pluginId: ShutterSlider
+type: action
+subtype: curseur
 ---
 
 # Description
@@ -17,7 +19,7 @@ Pour rester dans le réalisme, le widget possède un paramètre permettant de pr
 
 ## Avec le plugin Pimp my Jeedom
 
-L'installation est aisée grâce au plugin <a href="{{site.market}}/index.php?v=d&plugin_id=4005" target="\_blank">Pimp my Jeedom</a>, rendez vous sur la page du widget et cliquer sur le bouton **Installer**.
+L'installation est aisée grâce au plugin [Pimp my Jeedom]({{site.market}}/index.php?v=d&plugin_id=4005){:target="\_blank"}, rendez vous sur la page du widget et cliquer sur le bouton **Installer**.
 
 Pour appliquer le widget sur une ou plusieurs commandes, cliquer sur le bouton **Appliquer sur** et choisissez les commandes qui utiliseront le widget avant de cliquer sur **Valider**.
 
@@ -73,7 +75,7 @@ Permet de personnaliser la présentation du paramètre **time** en code CSS.
 
 ## Avec le plugin Pimp my Jeedom
 
-Le plugin <a href="{{site.market}}/index.php?v=d&plugin_id=4005" target="\_blank">Pimp my Jeedom</a> rend l'usage et la configuration des paramètres optionnels très simple et rapide.
+Le plugin [Pimp my Jeedom]({{site.market}}/index.php?v=d&plugin_id=4005){:target="\_blank"} rend l'usage et la configuration des paramètres optionnels très simple et rapide.
 
 Rendez vous sur la page du widget dans le plugin. Sélectionnez la commande que vous souhaitez personnaliser en cochant la case présente juste avant le nom de la commande pour ouvrir le panneau de personnalisation :
 
@@ -85,6 +87,10 @@ Pour appliquer de nouveaux paramètres optionnels, il faut se rendre dans la con
 Cliquez sur **Ajouter** et renseigner le nom et la valeur de chaque paramètre :
 
 ![{{page.pluginId}} - Params_exemple]({{site.baseurl}}/{{page.pluginId}}/img/{{page.pluginId}}_Params_Example.png "{{page.pluginId}} - Params_exemple")
+
+# Sur le forum
+
+[Accéder au sujet sur le forum](https://community.jeedom.com/t/salvialf-widget-shutterslider-action-curseur/22380){:target="\_blank"}
 
 # Changelog
 

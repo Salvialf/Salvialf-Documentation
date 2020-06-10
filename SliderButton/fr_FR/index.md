@@ -3,11 +3,13 @@ layout: default
 title: SliderButton
 lang: fr_FR
 pluginId: SliderButton
+type: action
+subtype: curseur
 ---
 
 # Description
 
-Ce widget pour commandes action/curseur est inspiré du widget core *"Button"*. Il allie design moderne et élégant, fonctionnalités et possibilités de personnalisation avancées.
+Ce widget pour commandes {{page.type}}/{{page.subtype}} est inspiré du widget core *"Button"*. Il allie design moderne et élégant, fonctionnalités et possibilités de personnalisation avancées.
 
 ![Sliderbutton - gif]({{site.baseurl}}/{{page.pluginId}}/img/SliderButton.gif "SliderButton - gif")
 
@@ -23,7 +25,7 @@ Entièrement personnalisable grâce à ses nombreux paramètres optionnels *(voi
 
 ## Avec le plugin Pimp my Jeedom
 
-L'installation est aisée grâce au plugin <a href="{{site.market}}/index.php?v=d&plugin_id=4005" target="\_blank">Pimp my Jeedom</a>, rendez vous sur la page du widget et cliquer sur le bouton **Installer**.
+L'installation est aisée grâce au plugin [Pimp my Jeedom]({{site.market}}/index.php?v=d&plugin_id=4005){:target="\_blank"}, rendez vous sur la page du widget et cliquer sur le bouton **Installer**.
 
 Pour appliquer le widget sur une ou plusieurs commandes, cliquer sur le bouton **Appliquer sur** et choisissez les commandes qui utiliseront le widget avant de cliquer sur **Valider**.
 
@@ -35,7 +37,7 @@ Les fichiers peuvent être récupérés dans un dossier compressé via ce lien :
 
 Les répertoires `dashboard` et `mobile`(si disponible) doivent être copiés dans le répertoire `data/customTemplates/` à l'aide du plugin *JeeXplorer*.
 
-Appliquer le widget sur une commande action/curseur à partir de l’onglet *Affichage* de la configuration de la commande, en choisissant **Customtemp/{{page.pluginId}}** dans le menu déroulant.
+Appliquer le widget sur une commande {{page.type}}/{{page.subtype}} à partir de l’onglet *Affichage* de la configuration de la commande, en choisissant **Customtemp/{{page.pluginId}}** dans le menu déroulant.
 
 En cas de mise à jour du code du widget il est nécessaire de télécharger les nouveaux fichiers et de les copier dans le répertoire `data/customTemplates/` en remplacement des anciens fichiers.
 
@@ -78,7 +80,7 @@ Permet de personnaliser la présentation du paramètre **time** en code CSS.
 
 ## Avec le plugin Pimp my Jeedom
 
-Le plugin <a href="{{site.market}}/index.php?v=d&plugin_id=4005" target="\_blank">Pimp my Jeedom</a> rend l'usage et la configuration des paramètres optionnels très simple et rapide.
+Le plugin [Pimp my Jeedom]({{site.market}}/index.php?v=d&plugin_id=4005){:target="\_blank"} rend l'usage et la configuration des paramètres optionnels très simple et rapide.
 
 Rendez vous sur la page du widget dans le plugin. Sélectionnez la commande que vous souhaitez personnaliser en cochant la case présente juste avant le nom de la commande pour ouvrir le panneau de personnalisation :
 
@@ -98,6 +100,10 @@ Cliquez sur **Ajouter** et renseigner le nom et la valeur de chaque paramètre :
 # Remerciements
 
 Un grand merci à @Dankoss pour la réalisation des images du widget.
+
+# Sur le forum
+
+[Accéder au sujet sur le forum](https://community.jeedom.com/t/salvialf-widget-sliderbutton-action-curseur/27562){:target="\_blank"}
 
 # Changelog
 
