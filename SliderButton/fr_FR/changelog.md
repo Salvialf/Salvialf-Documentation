@@ -12,7 +12,7 @@ pluginId: SliderButton
 - Uniformisation des paramètres optionnels en langue anglaise.
 - Ajout du paramètre **time** qui permet d'afficher les informations du dernier changement d'état (durée, date ou heure).
 - Ajout du paramètre **CSS-time** qui permet de personnaliser l'affichage du dernier changement d'état.
-- Ajout du paramètre **font** pour changer la police d'écriture.
+- Ajout du paramètre **font** pour changer la police d'écriture. Possibilité de charger sa propre police à partir du répertoire `/data/fonts/`.
 
 ## 03-06-2020
 

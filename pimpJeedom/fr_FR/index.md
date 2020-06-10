@@ -97,7 +97,7 @@ La page est divisée en plusieurs parties :
 * **Informations**:
   * **Installé ?** : la case est cochée si le widget est installé. Des symboles sont présents sur cette ligne pour indiquer la compatibilité du widget avec les versions dashboard et/ou mobile (icône_écran = dashboard, icône_smartphone = mobile).
   * **Nom du widget** : Nom du widget.
-  * **Version update** : Date de version du widget (*"need_update"* si une mise à jour est disponible).
+  * **Version** : Date de version du widget (*"need_update"* si une mise à jour est disponible).
   * **Type/Sous-Type** : Type et sous-type de commandes sur lesquelles le widget peut être appliqué.
   * **Visuel par défaut** : Image du visuel par défaut.
   * **Description** : Courte description des possiblités offertes par le widget.  
