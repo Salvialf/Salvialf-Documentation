@@ -137,7 +137,3 @@ En cliquant sur le widget disposant d'une mise à jour on constate que le champ 
 # Changelog
 
 [Voir le changelog]({{site.baseurl}}/{{page.pluginId}}/{{page.lang}}/changelog)
-
-# FAQ
-
-###
