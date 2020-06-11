@@ -108,7 +108,9 @@ Permet de visualiser les commandes sur lesquelles le widget est appliqué. Coche
 * **Boutons du menu**:
   * **Appliquer sur** : Pour choisir les commandes sur lesquelles appliquer ou désappliquer le widget.
   * **Mettre à jour** : Pour mettre à jour le widget. Ce bouton apparait uniquement si une mise à jour est disponible pour le widget concerné.
+  * **Envoyer une image** / **Envoyer une police** : Pour ajouter des images ou polices d'écriture directement dans le bon répertoire. Ne s'affiche que si l'option est existante sur le widget.
   * **Désinstaller** : Pour désinstaller le widget.
+  * **Icône_Livre** : Pour accéder à la documentation du widget.
 
 ### Modifier les paramètres optionnels
 
@@ -129,15 +131,13 @@ Chaque nuit le plugin va vérifier si des mises à jour sont disponibles pour le
 De plus une pastille de couleur orange avec un point d'exclamation apparait dans la liste sur le widget concerné par une mise à jour disponible :   
 ![Widgets by Salvialf - Pastille MAJ](../img/pastilleMAJ.png "Widgets by Salvialf - Pastille MAJ")
 
-En cliquant sur le widget disposant d'une mise à jour on constate que le champ **Version update** fait apparaitre la mention *"need_update"* et qu'un bouton de couleur orange nommé **Mettre à jour** est apparu. Il suffit de cliquer sur ce bouton pour procéder à la mise à jour du widget :   
+En cliquant sur le widget disposant d'une mise à jour on constate que le champ **Version** fait apparaitre la mention *"need_update"* et qu'un bouton de couleur orange nommé **Mettre à jour** est apparu. Il suffit de cliquer sur ce bouton pour procéder à la mise à jour du widget :   
 ![Mettre à jour Widget by Salvialf](../img/updateWidgetSalvialf.png "Mettre à jour Widget by Salvialf")  
-
-# Évolutions prévues
-
-Énormément d'évolutions sont prévues pour ce plugin afin de pouvoir modifier facilement votre Jeedom.
-
-Dans un 1er temps chaque widget disposera d'une documentation avec un accès direct depuis le plugin.
 
 # Changelog
 
 [Voir le changelog]({{site.baseurl}}/{{page.pluginId}}/{{page.lang}}/changelog)
+
+# FAQ
+
+###
