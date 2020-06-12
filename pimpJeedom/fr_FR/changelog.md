@@ -7,6 +7,10 @@ pluginId: pimpJeedom
 
 # Changelog
 
+## 12-06-2020
+
+- Passage BETA en STABLE. (Il peut être nécessaire de réappliquer certains paramètres sur quelques widgets)
+
 ## 10-06-2020 (BETA)
 
 - Sur les widgets qui le propose le plugin ira chercher directement les images `*.png` dans le répertoire `/data/img/Nom_du_Widget/` pour les ajouter aux images disponibles par défaut.
