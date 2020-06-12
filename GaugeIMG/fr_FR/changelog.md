@@ -7,6 +7,10 @@ pluginId: GaugeIMG
 
 # Changelog
 
+## 12-06-2020
+
+- Correction pour le paramètre `change` sur des valeurs décimales.
+
 ## 09-06-2020
 
 - Uniformisation des paramètres optionnels en langue anglaise.
