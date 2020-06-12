@@ -7,7 +7,9 @@ pluginId: Linky
 
 # Changelog
 
+## 12-10-2019
 
+- Partage du widget sur Community
 
 # Documentation
 
