@@ -25,11 +25,13 @@ Pour appliquer le widget sur une ou plusieurs commandes, cliquer sur le bouton *
 
 Le plugin vérifie automatiquement la disponibilité d'une mise à jour pour le widget et vous en informe directement dans Jeedom. En présence d'une mise à jour disponible, il suffit de se rendre sur la page du widget dans le plugin et cliquer sur le bouton **Mettre à jour**.
 
+![{{page.pluginId}} - Pimp my Jeedom]({{site.baseurl}}/{{page.pluginId}}/img/{{page.pluginId}}_pimpJeedom.png "{{page.pluginId}} - Pimp my Jeedom")
+
 ## Manuellement
 
 Les fichiers peuvent être récupérés dans un dossier compressé via ce lien : [{{page.pluginId}}_Widget-Jeedom.zip](https://github.com/Salvialf/JEEDOM-Widget-{{page.pluginId}}/raw/master/{{page.pluginId}}_WidgetJeedom.zip).
 
-Les répertoires `dashboard` et `mobile`(si disponible) doivent être copiés dans le répertoire `data/customTemplates/` à l'aide du plugin *JeeXplorer*.
+Les répertoires `dashboard` et `mobile` <small>(si disponible)</small> doivent être copiés dans le répertoire `data/customTemplates/` à l'aide du plugin *JeeXplorer*.
 
 Appliquer le widget sur une commande {{page.type}}/{{page.subtype}} à partir de l’onglet *Affichage* de la configuration de la commande, en choisissant **Customtemp/{{page.pluginId}}** dans le menu déroulant.
 
@@ -42,7 +44,7 @@ En cas de mise à jour du code du widget il est nécessaire de télécharger les
 * ### image
 Permet de choisir l'image de fond parmis les 16 disponibles : **bay_white, bay_white2, bay_black, bay_black2, bay_wood, bay_wood2, window, window1, window2, window3, window4, velux, garage, garage1, garage2, garage3**.  *(bay_white par défaut)*
 > **A savoir**    
-Il est possible d'inclure les images de fond de son choix en plaçant le(s) fichier(s) `*.png` dans le répertoire **/data/img/ShutterSlider/**.
+Il est possible d'inclure les images de fond de son choix en plaçant le(s) fichier(s) `*.png` dans le répertoire **/data/img/{{page.pluginId}}/**.
 
 * ### offset
 Permet de prendre en compte le temps de décollement des lames. *(null par défaut)*
@@ -80,6 +82,9 @@ Le plugin [Pimp my Jeedom]({{site.market}}/index.php?v=d&plugin_id=4005){:target
 Rendez vous sur la page du widget dans le plugin. Sélectionnez la commande que vous souhaitez personnaliser en cochant la case présente juste avant le nom de la commande pour ouvrir le panneau de personnalisation :
 
 ![{{page.pluginId}} - Params_pimpJeedom]({{site.baseurl}}/{{page.pluginId}}/img/{{page.pluginId}}_Params_pimpJeedom.png "{{page.pluginId}} - Params_pimpJeedom")
+
+> **Info**    
+Le bouton **Envoyer une image** présent sur la page du widget permet d'ajouter des images directement dans le répertoire **/data/img/{{page.pluginId}}/** et de les retrouver dans la liste des choix possibles.
 
 ## Manuellement
 

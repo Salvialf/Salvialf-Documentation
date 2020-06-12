@@ -31,11 +31,13 @@ Pour appliquer le widget sur une ou plusieurs commandes, cliquer sur le bouton *
 
 Le plugin vérifie automatiquement la disponibilité d'une mise à jour pour le widget et vous en informe directement dans Jeedom. En présence d'une mise à jour disponible, il suffit de se rendre sur la page du widget dans le plugin et cliquer sur le bouton **Mettre à jour**.
 
+![{{page.pluginId}} - Pimp my Jeedom]({{site.baseurl}}/{{page.pluginId}}/img/{{page.pluginId}}_pimpJeedom.png "{{page.pluginId}} - Pimp my Jeedom")
+
 ## Manuellement
 
 Les fichiers peuvent être récupérés dans un dossier compressé via ce lien : [SliderButton_Widget-Jeedom.zip](https://github.com/Salvialf/JEEDOM-Widget-{{page.pluginId}}/raw/master/{{page.pluginId}}_WidgetJeedom.zip).
 
-Les répertoires `dashboard` et `mobile`(si disponible) doivent être copiés dans le répertoire `data/customTemplates/` à l'aide du plugin *JeeXplorer*.
+Les répertoires `dashboard` et `mobile` <small>(si disponible)</small> doivent être copiés dans le répertoire `data/customTemplates/` à l'aide du plugin *JeeXplorer*.
 
 Appliquer le widget sur une commande {{page.type}}/{{page.subtype}} à partir de l’onglet *Affichage* de la configuration de la commande, en choisissant **Customtemp/{{page.pluginId}}** dans le menu déroulant.
 
@@ -89,9 +91,8 @@ Rendez vous sur la page du widget dans le plugin. Sélectionnez la commande que 
 
 ![{{page.pluginId}} - Params_pimpJeedom]({{site.baseurl}}/{{page.pluginId}}/img/{{page.pluginId}}_Params_pimpJeedom.png "{{page.pluginId}} - Params_pimpJeedom")
 
-> **A savoir**
-> - Les polices d'écriture présentes dans le répertoire `/data/fonts/` et ayant une extension de fichier `ttf` sont automatiquement ajoutées dans la liste du paramètre **font**.
-> - Concernant le paramètre **CSS-time**, un effet d'ombrage est renseigné par défaut.
+> **Info**    
+Le bouton **Envoyer une police** présent sur la page du widget permet d'ajouter des polices d'écriture directement dans le répertoire **/data/fonts/** et de les retrouver dans la liste des choix possibles.
 
 ## Manuellement
 

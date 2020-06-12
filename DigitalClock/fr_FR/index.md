@@ -26,11 +26,13 @@ Pour appliquer le widget sur une ou plusieurs commandes, cliquer sur le bouton *
 
 Le plugin vérifie automatiquement la disponibilité d'une mise à jour pour le widget et vous en informe directement dans Jeedom. En présence d'une mise à jour disponible, il suffit de se rendre sur la page du widget dans le plugin et cliquer sur le bouton **Mettre à jour**.
 
+![{{page.pluginId}} - Pimp my Jeedom]({{site.baseurl}}/{{page.pluginId}}/img/{{page.pluginId}}_pimpJeedom.png "{{page.pluginId}} - Pimp my Jeedom")
+
 ## Manuellement
 
 Les fichiers peuvent être récupérés dans un dossier compressé via ce lien : [{{page.pluginId}}_Widget-Jeedom.zip](https://github.com/Salvialf/JEEDOM-Widget-{{page.pluginId}}/raw/master/{{page.pluginId}}_WidgetJeedom.zip).
 
-Les répertoires `dashboard` et `mobile`(si disponible) doivent être copiés dans le répertoire `data/customTemplates/` à l'aide du plugin *JeeXplorer*.
+Les répertoires `dashboard` et `mobile` <small>(si disponible)</small> doivent être copiés dans le répertoire `data/customTemplates/` à l'aide du plugin *JeeXplorer*.
 
 Appliquer le widget sur une commande {{page.type}}/{{page.subtype}} à partir de l’onglet *Affichage* de la configuration de la commande, en choisissant **Customtemp/{{page.pluginId}}** dans le menu déroulant.
 
@@ -44,10 +46,13 @@ En cas de mise à jour du code du widget il est nécessaire de télécharger les
 Permet de sélectionner la police d'écriture de la date.  *(default par défaut)*
 
 * ### time-font
-Permet de sélectionner la police d'écriture de l'heure'. *(default par défaut)*
+Permet de sélectionner la police d'écriture de l'heure. *(default par défaut)*
 
 > **38 polices sont incluses et directement sélectionnables dans le widget** :  
 *alarm, arcade1, arcade2, arcade3, astronomic, atomic, clubland, digit, digital7, digital7dot, digital7led, digitaldust, dismay, frida1, frida2, frida3, grapam, habesha1, habesha2, habesha3, identification, label, lcd14, lcdmu, lcdpixel, ledboard, ledboard2, monochrome, prisma, segment, shmup, squarecurved, squareforced, squarehead, starfish, taurus, tesla, verily*.
+
+> **A savoir**    
+>Les polices d'écriture présentes dans le répertoire `/data/fonts/` et ayant une extension de fichier `ttf` sont automatiquement ajoutées dans la liste des paramètres **date-font** et **time-font**.
 
 * ### date-size
 Pour choisir la taille de la date en pixels. *(20 par défaut)*
@@ -59,7 +64,7 @@ Pour choisir la taille de l'heure en pixels. *(40 par défaut)*
 Renseigner une taille à 0 fera disparaitre l'affichage de la date ou de l'heure.
 
 * ### color
-Permet de modifier la couleur de l'horloge. *(grise par défaut)*
+Permet de modifier la couleur de l'horloge. *(gris par défaut)*
 
 * ### disposition
 Permet de modifier la disposition du widget abrégé sur 2 lignes ou complet sur 3 lignes. **simple** ou **full** *(simple par défaut)*
@@ -78,8 +83,8 @@ Rendez vous sur la page du widget dans le plugin. Sélectionnez la commande que 
 
 ![{{page.pluginId}} - Params_pimpJeedom]({{site.baseurl}}/{{page.pluginId}}/img/{{page.pluginId}}_Params_pimpJeedom.png "{{page.pluginId}} - Params_pimpJeedom")
 
-> **A savoir**
-> - Les polices d'écriture présentes dans le répertoire `/data/fonts/` et ayant une extension de fichier `ttf` sont automatiquement ajoutées dans la liste des paramètres **date-font** et **time-font**.
+> **Info**    
+Le bouton **Envoyer une police** présent sur la page du widget permet d'ajouter des polices d'écriture directement dans le répertoire **/data/fonts/** et de les retrouver dans la liste des choix possibles.
 
 ## Manuellement
 
