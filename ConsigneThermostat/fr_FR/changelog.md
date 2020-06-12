@@ -7,7 +7,9 @@ pluginId: ConsigneThermostat
 
 # Changelog
 
+## 29-03-2020
 
+- Partage du widget sur Community
 
 # Documentation
 
