@@ -53,10 +53,10 @@ Permet de définir une borne minimale indépendante des contraintes imposées pa
 Permet de définir une borne maximale indépendante des contraintes imposées par Jeedom. *(valeur maxi de la commande par défaut)*
 
 * ### gauge
-Permet de choisir la couleur de la jauge parmis les 9 disponibles : **blue, green, yellow, orange, red, pink, purple, turquoise, neutral**. *(bleue par défaut)*
+Permet de choisir la couleur de la jauge parmis les 9 disponibles : **blue, green, yellow, orange, red, pink, purple, turquoise, neutral**. *(blue par défaut)*
 
 * ### arrow
-Permet de choisir la couleur de la flèche parmis les 9 disponibles : **blue, green, yellow, orange, red, pink, purple, turquoise, neutral**. *(bleue par défaut)*
+Permet de choisir la couleur de la flèche parmis les 9 disponibles : **blue, green, yellow, orange, red, pink, purple, turquoise, neutral**. *(blue par défaut)*
 
 * ### change
 Permet de changer la couleur de la jauge en fonction de la valeur de la commande. *(non renseigné par défaut)*
