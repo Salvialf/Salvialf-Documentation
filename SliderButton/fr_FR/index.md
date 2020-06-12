@@ -69,6 +69,9 @@ Permet de changer la police d'écriture de la valeur centrale. Les fichiers `*.t
 * ### font-size
 Pour choisir la taille de la police d'écriture en pixels. *(12 par défaut)*
 
+> **Astuce**   
+Renseigner une taille à 0 fera disparaitre l'affichage de la valeur centrale.
+
 * ### font-color
 Permet de choisir la couleur de la police d'écriture. *(black par défaut)*
 
@@ -86,7 +89,7 @@ Rendez vous sur la page du widget dans le plugin. Sélectionnez la commande que 
 
 ![{{page.pluginId}} - Params_pimpJeedom]({{site.baseurl}}/{{page.pluginId}}/img/{{page.pluginId}}_Params_pimpJeedom.png "{{page.pluginId}} - Params_pimpJeedom")
 
-> **Bon à savoir**
+> **A savoir**
 > - Les polices d'écriture présentes dans le répertoire `/data/fonts/` et ayant une extension de fichier `ttf` sont automatiquement ajoutées dans la liste du paramètre **font**.
 > - Concernant le paramètre **CSS-time**, un effet d'ombrage est renseigné par défaut.
 
