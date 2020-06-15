@@ -7,6 +7,10 @@ pluginId: pimpJeedom
 
 # Changelog
 
+## 15-06-2020
+
+- Correction du non-affichage des widgets tiers contenant un tiret-bas dans leur nom.
+
 ## 12-06-2020
 
 - Passage BETA en STABLE. (Il peut être nécessaire de réappliquer certains paramètres sur quelques widgets)
