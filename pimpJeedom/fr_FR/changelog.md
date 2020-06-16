@@ -7,6 +7,12 @@ pluginId: pimpJeedom
 
 # Changelog
 
+## 16-06-2020 (BETA)
+
+- Ajout du widget **ColorSlider** pour commandes action/couleur.
+- Réécriture complète du widget **ColorCircle** qui n'utilise plus d'images.
+- Nouveau message en cas de succès d'une mise à jour de widget.
+
 ## 15-06-2020
 
 - Correction du non-affichage des widgets tiers contenant un tiret-bas dans leur nom.
