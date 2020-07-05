@@ -18,6 +18,18 @@ Plugin permettant de personnaliser Jeedom par la gestion simplifiée des widgets
 - [Changelog]({{site.baseurl}}/pimpJeedom/{{page.lang}}/changelog)
 - <a href="{{site.market}}/index.php?v=d&plugin_id=4005" target="\_blank">Market</a>
 
+## Meeko Family
+
+[<img width="77" src="{{site.market}}/filestore/market/plugin/images/meeko_icon.png">]({{site.baseurl}}/meeko/{{page.lang}})
+
+Plugin permettant d'intégrer l'application de suivi de crèche 'Meeko Family' à Jeedom.
+Consultez en un coup d'oeil les activités de vos enfants et automatisez les actions lorsqu'ils sont présents à la crèche.
+
+
+- [Documentation]({{site.baseurl}}/meeko/{{page.lang}})
+- [Changelog]({{site.baseurl}}/meeko/{{page.lang}}/changelog)
+- <a href="{{site.market}}/index.php?v=d&plugin_id=4023" target="\_blank">Market</a>
+
 # Widgets :
 
 ## ClignoBLT (info/numérique)
@@ -37,6 +49,15 @@ Superbe roue chromatique, destinée aux commandes action/couleur, permettant de 
 
 - [Documentation]({{site.baseurl}}/ColorCircle/{{page.lang}})
 - [Changelog]({{site.baseurl}}/ColorCircle/{{page.lang}}/changelog)
+
+## ColorSlider (action/couleur)
+
+[<img width="90" src="../../ColorSlider/img/ColorSlider.png">]({{site.baseurl}}/ColorSlider/{{page.lang}})
+
+Roue chromatique proposant diverses options de disposition et d'affichage à base de sliders.
+
+- [Documentation]({{site.baseurl}}/ColorSlider/{{page.lang}})
+- [Changelog]({{site.baseurl}}/ColorSlider/{{page.lang}}/changelog)
 
 ## ConsigneThermostat (action/curseur)
 
