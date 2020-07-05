@@ -47,7 +47,7 @@ Permet de choisir l'image de fond parmis les 16 disponibles : **bay_white, bay_w
 Il est possible d'inclure les images de fond de son choix en plaçant le(s) fichier(s) `*.png` dans le répertoire **/data/img/{{page.pluginId}}/**.
 
 * ### offset
-Permet de prendre en compte le temps de décollement des lames. *(null par défaut)*
+Permet de prendre en compte le temps de décollement des lames. *(0 par défaut)*
 > **Usage**    
 Positionner le volet à environ 1% d’ouverture physique. Le pourcentage de décollement correspond à la valeur d’ouverture qui apparaît alors sur le widget. Renseigner cette valeur pour le paramètre **offset**.
 
