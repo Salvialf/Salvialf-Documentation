@@ -22,8 +22,7 @@ Plugin permettant de personnaliser Jeedom par la gestion simplifiée des widgets
 
 [<img width="77" src="{{site.market}}/filestore/market/plugin/images/meeko_icon.png">]({{site.baseurl}}/meeko/{{page.lang}})
 
-Plugin permettant d'intégrer l'application de suivi de crèche 'Meeko Family' à Jeedom.
-Consultez en un coup d'oeil les activités de vos enfants et automatisez les actions lorsqu'ils sont présents à la crèche.
+Plugin permettant d'intégrer l'application de suivi de crèche [**Meeko Family**](https://meeko.pro/family){:target="\_blank"} à Jeedom.
 
 
 - [Documentation]({{site.baseurl}}/meeko/{{page.lang}})
