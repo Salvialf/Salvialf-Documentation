@@ -1,15 +1,15 @@
 ---
 layout: default
-title: ColorSlider changelog
+title: IconAction changelog
 lang: fr_FR
-pluginId: ColorSlider
+pluginId: IconAction
 ---
 
 # Changelog
 
-## 09-07-2020
+## 27-11-2019
 
-- Ajout du widget au plugin Pimp my jeedom
+- Partage du widget sur Community
 
 # Documentation
 

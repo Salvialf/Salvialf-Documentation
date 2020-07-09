@@ -46,7 +46,7 @@ Valeur en pixels permettant de modifier la hauteur de l'image. *(90 par défaut)
 Valeur en pixels permettant de modifier la largeur de l'image. *(90 par défaut)*
 
 * ### image
-Pour choisir la taille de la date en pixels. **default** ou **woman** *(default par défaut)*
+Pour sélectionner l'image à afficher sur le widget. **default** ou **woman** *(default par défaut)*
 > **A savoir**    
 Il est possible d'inclure les images de son choix en plaçant le(s) fichier(s) `*.png` dans le répertoire **/data/img/{{page.pluginId}}/**.    
 Les images doivent être nommées "**Nom**\_*on.png*" & "**Nom**\_*off.png*".

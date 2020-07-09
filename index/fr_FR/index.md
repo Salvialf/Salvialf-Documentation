@@ -85,6 +85,24 @@ De superbes jauges animées et colorées pour vos commandes info/numériques.
 - [Documentation]({{site.baseurl}}/GaugeIMG/{{page.lang}})
 - [Changelog]({{site.baseurl}}/GaugeIMG/{{page.lang}}/changelog)
 
+## IconAction (action/défaut)
+
+[<img width="90" src="../../IconAction/img/IconAction.png">]({{site.baseurl}}/IconAction/{{page.lang}})
+
+Widget qui permet un toggle d'icône sur les commandes action/autre ON & OFF.
+
+- [Documentation]({{site.baseurl}}/IconAction/{{page.lang}})
+- [Changelog]({{site.baseurl}}/IconAction/{{page.lang}}/changelog)
+
+## IconInfo (info/binaire)
+
+[<img width="90" src="../../IconInfo/img/IconInfo.png">]({{site.baseurl}}/IconInfo/{{page.lang}})
+
+Visualisez l'état de vos équipements d'un coup d'oeil grâce à ce widget permettant d'afficher une image différente selon l'état (0 ou 1) d'une commande info/binaire.
+
+- [Documentation]({{site.baseurl}}/IconInfo/{{page.lang}})
+- [Changelog]({{site.baseurl}}/IconInfo/{{page.lang}}/changelog)
+
 ## Linky (info/numérique)
 
 [<img width="90" src="../../Linky/img/Linky.png">]({{site.baseurl}}/Linky/{{page.lang}})

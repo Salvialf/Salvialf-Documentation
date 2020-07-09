@@ -1,15 +1,15 @@
 ---
 layout: default
-title: ColorCircle
+title: IconAction
 lang: fr_FR
-pluginId: ColorCircle
+pluginId: IconAction
 type: action
-subtype: couleur
+subtype: défaut
 ---
 
 # Description
 
-Roue chromatique du plus bel effet pour commandes {{page.type}}/{{page.subtype}}. La sélection de la couleur s'effectue par le cercle extérieur et la nuance à l'aide de la partie centrale.
+Widget qui permet un toggle d'icône sur les commandes {{page.type}}/{{page.subtype}} (*ON* ou *OFF*) pour commander un équipement tout en en reflétant l'état.
 
 ![{{page.pluginId}} - gif]({{site.baseurl}}/{{page.pluginId}}/img/{{page.pluginId}}.gif "{{page.pluginId}} - gif")
 
@@ -39,14 +39,27 @@ En cas de mise à jour du code du widget il est nécessaire de télécharger les
 
 ## Liste des paramètres disponibles
 
-* ### disposition
-Permet de choisir la forme de la partie centrale entre un carré ou un triangle : **quad** ou **triangle** *(quad par défaut)*
+* ### height
+Valeur en pixels permettant de modifier la hauteur de l'image. *(75 par défaut)*
 
-* ### size
-Valeur en pixels permettant de modifier la taille du widget. *(140 par défaut)*
+* ### width
+Valeur en pixels permettant de modifier la largeur de l'image. *(75 par défaut)*
 
-* ### color-savers
-Permet d'afficher 2 zones permettant de conserver une couleur en mémoire. **checked** ou **unchecked** *(unchecked par défaut)*
+* ### image
+Pour sélectionner l'image à afficher sur le widget. *(default par défaut)*
+
+> **31 visuels sont disponibles**    
+*ampli, ampli2, ampoule, applique, applique2, aquarium, barreson, bluray, chainehifi, dvd, freewifi, kodi, lampadaire, lampe, lum1, lum2, lum3, lumext, nswitch, playstation, prise, rad, sapin, spot, tv, wallplug, wii, xbox*.
+
+> **A savoir**    
+Il est possible d'inclure les images de son choix en plaçant le(s) fichier(s) `*.png` dans le répertoire **/data/img/{{page.pluginId}}/**.    
+Les images doivent être nommées "**type**\_*on.png*" & "**type**\_*off.png*".
+
+* ### time
+Pour visualiser les informations de temps depuis le dernier changement d'état. 3 formats sont possibles : **duration** affiche la durée, **date** affiche le jour et l'heure, **hour** affiche l'heure avec les secondes du dernier changement d'état. *(off par défaut)*
+
+* ### CSS-time
+Permet de personnaliser la présentation du paramètre **time** en code CSS.
 
 ## Avec le plugin Pimp my Jeedom
 
@@ -56,6 +69,9 @@ Rendez vous sur la page du widget dans le plugin. Sélectionnez la commande que 
 
 ![{{page.pluginId}} - Params_pimpJeedom]({{site.baseurl}}/{{page.pluginId}}/img/{{page.pluginId}}_Params_pimpJeedom.png "{{page.pluginId}} - Params_pimpJeedom")
 
+> **Info**    
+Le bouton **Envoyer une image** présent sur la page du widget permet d'ajouter des images directement dans le répertoire **/data/img/{{page.pluginId}}/** et de les retrouver dans la liste des choix possibles.
+
 ## Manuellement
 
 Pour appliquer de nouveaux paramètres optionnels, il faut se rendre dans la configuration de la commande puis onglet *Affichage* -> **Paramètres optionnels widget**.    
@@ -63,13 +79,9 @@ Cliquez sur **Ajouter** et renseigner le nom et la valeur de chaque paramètre :
 
 ![{{page.pluginId}} - Params_exemple]({{site.baseurl}}/{{page.pluginId}}/img/{{page.pluginId}}_Params_Example.png "{{page.pluginId}} - Params_exemple")
 
-# Sources
-
-Ce widget a été réalisé à partir de la librairie [Kelly ColorPicker](https://github.com/NC22/HTML5-Color-Picker){:target="\_blank"}.
-
 # Sur le forum
 
-[Accéder au sujet sur le forum](https://community.jeedom.com/t/salvialf-widget-colorcircle-action-couleur/22773){:target="\_blank"}
+[Accéder au sujet sur le forum](https://community.jeedom.com/t/salvialf-widget-iconinfo-info-binaire/7970){:target="\_blank"}
 
 # Changelog
 

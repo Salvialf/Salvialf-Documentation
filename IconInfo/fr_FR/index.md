@@ -1,15 +1,15 @@
 ---
 layout: default
-title: ColorCircle
+title: IconInfo
 lang: fr_FR
-pluginId: ColorCircle
-type: action
-subtype: couleur
+pluginId: IconInfo
+type: info
+subtype: binaire
 ---
 
 # Description
 
-Roue chromatique du plus bel effet pour commandes {{page.type}}/{{page.subtype}}. La sélection de la couleur s'effectue par le cercle extérieur et la nuance à l'aide de la partie centrale.
+Visualisez l'état de vos équipements d'un coup d'oeil grâce à ce widget permettant d'afficher une image différente selon l'état 0 ou 1 d'une commande {{page.type}}/{{page.subtype}}.
 
 ![{{page.pluginId}} - gif]({{site.baseurl}}/{{page.pluginId}}/img/{{page.pluginId}}.gif "{{page.pluginId}} - gif")
 
@@ -39,14 +39,27 @@ En cas de mise à jour du code du widget il est nécessaire de télécharger les
 
 ## Liste des paramètres disponibles
 
-* ### disposition
-Permet de choisir la forme de la partie centrale entre un carré ou un triangle : **quad** ou **triangle** *(quad par défaut)*
+* ### height
+Valeur en pixels permettant de modifier la hauteur de l'image. *(75 par défaut)*
 
-* ### size
-Valeur en pixels permettant de modifier la taille du widget. *(140 par défaut)*
+* ### width
+Valeur en pixels permettant de modifier la largeur de l'image. *(75 par défaut)*
 
-* ### color-savers
-Permet d'afficher 2 zones permettant de conserver une couleur en mémoire. **checked** ou **unchecked** *(unchecked par défaut)*
+* ### image
+Pour sélectionner l'image à afficher sur le widget. *(default par défaut)*
+
+> **187 visuels sont disponibles**    
+*airpur, ambilight, ambilight2, ampli, amplihc, aquarium, arrosage, aspirateur, aspixiaomi, bal, barreson, bbox, bbox2, bboxtv, bluray, box, broadlinkair, broadlinkmini, broadlinkprise, broadlinkpro, cafetiere, cam1, cam2, cam3, cam4, camext, cave, cave2, chainehifi, chauffage, chromecast, congelateur, ds918, dvd, echob, echodot, echog, echospotb, echospotw, echow, ecranproj, free, freeadsl, freebox, freeboxtv, freedelta, freewifi, frigo, frigo2, gateway, ghome, gminig, gminin, gminio, gps, hotte, hp, huev1, huev2, impr, imprimante, imprimante2, imprlaser, ipad, iphone4, jeedom, jeedomm, jeedoms1, jeedoms2, jeedoms3, jeedomsmart, jpi, kodi, kodi2, lavelinge, lavevaisselle, lgg3, linux, livebox, livebox2, livebox4, lvaisselle, mac, machinealaver, machinelaver, moustiques, nas, note8, nswitch, nuc, onetouch, orange, orvibo, paw, pc, pc2, pharmacie, playstation, playstation2, plex, pms, poele, pompe, portapple, portwin, poulailler, prise, raspbmc, raspi, refrigerateur, repwifi, repwifi2, routeur, routeur2, routeur3, sapin, sarah, sechelinge, secheserviette, sfr, sfrbox, slinge, sonosbeamB, sonosbeamW, sonosoneB, sonosoneW, sonosplayB, sonosplayW,  subwoofer, switch, synow, synob, synort1900, synort2600, tab4, tv, tv2, videoproj, vmc, wii, wiiu, xbmc, xbmc2, xbox, xbox2, xpenology, zibase*.
+
+> **A savoir**    
+Il est possible d'inclure les images de son choix en plaçant le(s) fichier(s) `*.png` dans le répertoire **/data/img/{{page.pluginId}}/**.    
+Les images doivent être nommées "**type**\_*on.png*" & "**type**\_*off.png*".
+
+* ### time
+Pour visualiser les informations de temps depuis le dernier changement d'état. 3 formats sont possibles : **duration** affiche la durée, **date** affiche le jour et l'heure, **hour** affiche l'heure avec les secondes du dernier changement d'état. *(off par défaut)*
+
+* ### CSS-time
+Permet de personnaliser la présentation du paramètre **time** en code CSS.
 
 ## Avec le plugin Pimp my Jeedom
 
@@ -56,6 +69,9 @@ Rendez vous sur la page du widget dans le plugin. Sélectionnez la commande que 
 
 ![{{page.pluginId}} - Params_pimpJeedom]({{site.baseurl}}/{{page.pluginId}}/img/{{page.pluginId}}_Params_pimpJeedom.png "{{page.pluginId}} - Params_pimpJeedom")
 
+> **Info**    
+Le bouton **Envoyer une image** présent sur la page du widget permet d'ajouter des images directement dans le répertoire **/data/img/{{page.pluginId}}/** et de les retrouver dans la liste des choix possibles.
+
 ## Manuellement
 
 Pour appliquer de nouveaux paramètres optionnels, il faut se rendre dans la configuration de la commande puis onglet *Affichage* -> **Paramètres optionnels widget**.    
@@ -63,13 +79,9 @@ Cliquez sur **Ajouter** et renseigner le nom et la valeur de chaque paramètre :
 
 ![{{page.pluginId}} - Params_exemple]({{site.baseurl}}/{{page.pluginId}}/img/{{page.pluginId}}_Params_Example.png "{{page.pluginId}} - Params_exemple")
 
-# Sources
-
-Ce widget a été réalisé à partir de la librairie [Kelly ColorPicker](https://github.com/NC22/HTML5-Color-Picker){:target="\_blank"}.
-
 # Sur le forum
 
-[Accéder au sujet sur le forum](https://community.jeedom.com/t/salvialf-widget-colorcircle-action-couleur/22773){:target="\_blank"}
+[Accéder au sujet sur le forum](https://community.jeedom.com/t/salvialf-widget-iconinfo-info-binaire/7970){:target="\_blank"}
 
 # Changelog
 
