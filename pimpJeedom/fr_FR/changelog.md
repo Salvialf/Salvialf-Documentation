@@ -10,8 +10,8 @@ pluginId: pimpJeedom
 ## 09-07-2020
 
 - Ajout du widget **IconInfo** pour commandes info/binaire.
-- Ajout du widget **Iconaction** pour commandes action/défaut.
-- Remplacement eqLogic par Config (merci @naboleo).
+- Ajout du widget **IconAction** pour commandes action/défaut.
+- Remplacement eqLogic par Config -> nécessite la mise à jour de tous les widgets déjà installés. (merci @naboleo)
 - Passage de la dernière BETA en STABLE.
 
 ## 16-06-2020 (BETA)
