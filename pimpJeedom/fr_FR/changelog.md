@@ -7,6 +7,13 @@ pluginId: pimpJeedom
 
 # Changelog
 
+## 09-07-2020
+
+- Ajout du widget **IconInfo** pour commandes info/binaire.
+- Ajout du widget **Iconaction** pour commandes action/défaut.
+- Remplacement eqLogic par Config (merci @naboleo).
+- Passage de la dernière BETA en STABLE.
+
 ## 16-06-2020 (BETA)
 
 - Ajout du widget **ColorSlider** pour commandes action/couleur.
