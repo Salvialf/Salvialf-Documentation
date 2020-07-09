@@ -94,6 +94,10 @@ Cliquez sur **Ajouter** et renseigner le nom et la valeur de chaque paramètre :
 
 Ce widget a été réalisé à partir de la librairie [iro.js](https://iro.js.org){:target="\_blank"}.
 
+# Sur le forum
+
+[Accéder au sujet sur le forum](https://community.jeedom.com/t/salvialf-widget-colorslider-action-couleur/32831){:target="\_blank"}
+
 # Changelog
 
 [Voir le changelog]({{site.baseurl}}/{{page.pluginId}}/{{page.lang}}/changelog)

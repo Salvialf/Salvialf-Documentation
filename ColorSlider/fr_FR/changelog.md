@@ -9,7 +9,7 @@ pluginId: ColorSlider
 
 ## 09-07-2020
 
-- Ajout du widget au plugin Pimp my jeedom
+- Partage du widget sur Community.
 
 # Documentation
 
