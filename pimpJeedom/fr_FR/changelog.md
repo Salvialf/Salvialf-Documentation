@@ -7,6 +7,10 @@ pluginId: pimpJeedom
 
 # Changelog
 
+## 10-07-2020
+
+- En prévention de la suppression automatique des fichiers inutiles par le core, lors d'une mise à jour du plugin les widgets installés sont automatiquement sauvegardés avant la mise à jour et restaurés après.
+
 ## 09-07-2020
 
 - Ajout du widget **IconInfo** pour commandes info/binaire.
