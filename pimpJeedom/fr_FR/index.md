@@ -77,7 +77,7 @@ Pour accéder aux widgets réalisés par Salvialf cliquez sur le bouton **Widget
 
 Sur la page d'accueil nous retrouvons en haut à droite un bouton bleu permettant de vérifier les mises à jour de widgets ainsi qu'une icône en forme de livre qui ouvre un lien vers la documentation du plugin spécifique à cette partie.
 
-Au milieu se trouve les tuiles représentant la liste des widgets disponibles dont vous pouvez trouver la liste ainsi que la documentation associée en cliquant [ici](https://salvialf.github.io/Salvialf-Documentation/index/fr_FR/#tocAnchor-1-4){:target="\_blank"}.
+Au milieu se trouvent les tuiles représentant la liste des widgets disponibles dont vous pouvez trouver la liste ainsi que la documentation associée en cliquant [ici](https://salvialf.github.io/Salvialf-Documentation/index/fr_FR/#tocAnchor-1-4){:target="\_blank"}.
 >**Info**      
 >Les widgets non installés apparaissent en grisés et sont colorés si le widget est installé.
 
