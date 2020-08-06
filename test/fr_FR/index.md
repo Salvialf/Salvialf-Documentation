@@ -9,7 +9,7 @@ La liste non-exhaustive des marques compatibles avec le protocole *PJLink* est :
 
 ![PJLink Compatible Brands](../images/compatibleBrands.png)
 
-Pour plus d'informations sur les modèles prenant en charge le protocole *PJLink*, veuillez vous référer à [cette liste classée par année de commercialisation](https://pjlink.jbmia.or.jp/english/list.html){:target="\_blank"}.
+Pour plus d'informations sur les modèles prenant en charge le protocole *PJLink*, veuillez vous référer à [cette liste classée par année de commercialisation](https://pjlink.jbmia.or.jp/english/list.html){:target="\_blank"} ou à la documentation de votre matériel.
 
 > **Information importante**    
 > Les équipements compatibles se décomposent en 2 classes, selon votre matériel vous n'aurez pas accès aux mêmes informations :
