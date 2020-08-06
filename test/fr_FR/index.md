@@ -58,7 +58,7 @@ Vous n'aurez pas accès aux mêmes commandes selon les possiblités offertes par
 
 ![PJLink plugin configuration](../images/pjlink4.png)
 
-* ![PJLink plugin configuration](../images/pjlink6.png) : De couleur verte cette icône indique qu'aucune erreur n'est en cours. Si une erreur est détectée, l'icône sera de couleur orange et le contenu de l'erreur sera indiqué au survol ou sur la dernière information directement dans l'équipement.
+* ![PJLink plugin configuration](../images/pjlink6.png) : De couleur verte, cette icône indique qu'aucune erreur n'est en cours. Si une erreur est détectée, l'icône sera de couleur orange et le contenu de l'erreur sera indiqué au survol ou sur la dernière information directement dans l'équipement.
 * ![PJLink plugin configuration](../images/pjlink7.png) : S'affiche si le son est coupé *(Mute Audio)*.
 * ![PJLink plugin configuration](../images/pjlink8.png) : S'affiche si la vidéo est coupée *(Mute Video)*.
 * L'icône représentant le vidéoprojecteur change de couleur en fonction de l'état du matériel :
@@ -68,8 +68,8 @@ Vous n'aurez pas accès aux mêmes commandes selon les possiblités offertes par
   * **Orange** : Le vidéoprojecteur est en cours de chauffe.
 * **Entrée Vidéo** : Permet de sélectionner l'entrée vidéo *(input)*.
 * **Power** : Allumer/Éteindre le matériel.
-* **Mute Audio** : Pour arrêter la diffusion sonore.
-* **Mute Video** : Pour arrêter la diffusion vidéo.
+* **Mute Audio** : Pour arrêter ou reprendre la diffusion sonore.
+* **Mute Video** : Pour arrêter ou reprendre la diffusion vidéo.
 
 ## Classe 2
 
@@ -79,5 +79,5 @@ Toutes les commandes de la classe 1 sont accessibles et également :
 
 * ![PJLink plugin configuration](../images/pjlink9.png) : S'affiche si l'audio et la vidéo sont gelés *(Freeze)*.
 * **Freeze** : Geler/Dégeler la vidéo et l'audio.
-* **Speaker Volume** : **-** permet de diminuer le volume sonore et **+** de l'augmenter.
-* **Microphone Volume** : **-** permet de diminuer le volume du microphone et **+** de l'augmenter.
+* **Speaker Volume** : Le bouton "**-**" permet de diminuer le volume sonore et "**+**" de l'augmenter.
+* **Microphone Volume** : Le bouton "**-**" permet de diminuer le volume du microphone et "**+**" de l'augmenter.
