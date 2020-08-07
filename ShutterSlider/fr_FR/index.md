@@ -15,6 +15,10 @@ Ce widget pour commandes action/curseur permet de gérer le positionnement des o
 
 Pour rester dans le réalisme, le widget possède un paramètre permettant de prendre en compte le temps de décollement des lames afin que le visuel Jeedom corresponde à la position réelle du volet.
 
+>**A savoir**     
+>Pour les modules dont la valeur d'ouverture maximum est de 99% il est nécessaire de renseigner la valeur Max de la commande de positionnement à `99`.
+>![{{page.pluginId}} - Max Commande]({{site.baseurl}}/{{page.pluginId}}/img/{{page.pluginId}}_MaxCmd.png "{{page.pluginId}} - Max Commande")
+
 # Installation et mises à jour
 
 ## Avec le plugin Pimp my Jeedom
