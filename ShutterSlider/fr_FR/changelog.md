@@ -9,7 +9,7 @@ pluginId: ShutterSlider
 
 ## 07-08-2020
 
-- Correction de la position du volet ouvert pour les modules définisant l'ouverture maximale à 99% + paramètre *offset* renseigné.      
+- Correction de la position du volet ouvert pour les modules définissant l'ouverture maximale à 99% avec le paramètre *offset* renseigné.      
 **Pour les modules dont la valeur d'ouverture maximum est de 99% il sera dorénavant nécessaire de renseigner la valeur Max de la commande de positionnement à** `99`.
 ![{{page.pluginId}} - Max Commande]({{site.baseurl}}/{{page.pluginId}}/img/{{page.pluginId}}_MaxCmd.png "{{page.pluginId}} - Max Commande")
 
