@@ -62,10 +62,10 @@ Permet de choisir la couleur de la flèche parmis les 9 disponibles : **blue, gr
 Permet de changer la couleur de la jauge en fonction de la valeur de la commande. *(non renseigné par défaut)*
 
 > **Utilisation**    
-Saisir la plage de valeurs séparées par un tiret-bas **(_)**, puis deux-points **(:)** suivis de la couleur désirée. Plusieurs plages peuvent être définies en les séparant par une virgule **(,)**.    
+Saisir la plage de valeurs séparées par un tiret-bas **(_)**, puis deux-points **(:)** suivis de la couleur désirée *(en anglais)*. Plusieurs plages peuvent être définies en les séparant par une virgule **(,)**.    
 
 > **Exemple**     
-change = `0_25:verte,25_75:orange,75_90:rouge`
+change = `0_25:green,25_75:orange,75_90:red`
 
 * ### size
 Permet de choisir la taille de la jauge parmis les 3 disponibles **small**, **medium** et **big**. *(medium par défaut)*
