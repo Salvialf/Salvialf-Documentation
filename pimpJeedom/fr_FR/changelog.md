@@ -7,6 +7,10 @@ pluginId: pimpJeedom
 
 # Changelog
 
+## 26-10-2020 (BETA)
+
+- Intégration des menus pour designs avec navigation par iframe réalisés par [Noodom](https://github.com/noodom){:target="\_blank"}.
+
 ## 10-07-2020
 
 - En prévention de la suppression automatique des fichiers inutiles par le core, lors d'une mise à jour du plugin les widgets installés sont automatiquement sauvegardés avant la mise à jour et restaurés après.
