@@ -194,7 +194,7 @@ La page est divisée en plusieurs parties :
 Tous les menus proposent différentes options de personnalisation mais ont en commun **la sélection d'un design lié à chaque bouton du menu via une liste déroulante** reprenant les designs existants.
 
 Les autres options disponibles sont :    
-* **Icône** : Pour sélectioner une icône ou une image à appliquer sur le bouton. Le bouton **Choisir** sur la droite permet de sélectioner, selon l'onglet, une icône présente dans Jeedom ou une image présente dans le répertoire `data/img/`.    
+* **Icône** : Pour sélectioner une icône ou une image à appliquer sur le bouton. Le bouton **Choisir** sur la droite permet de sélectionner, selon l'onglet, une icône présente dans Jeedom ou une image présente dans le répertoire `data/img/`.    
 >**Astuce**     
 >Sur l'onglet **Image**, le bouton **Envoyer** permet d'ajouter des images directement dans le dossier `data/img/`.
 
