@@ -171,7 +171,7 @@ Pour accéder aux détails d'un menu *made by Noodom* il suffit de cliquer dessu
 
 La page est divisée en plusieurs parties :
 * **Général**:
-  * **Nom du design général** : le nom donné au design par lequel s'efectue l'accès.
+  * **Nom du design général** : le nom donné au design par lequel s'effectue l'accès.
   * **Taille du design** *(en pixels)* : Longueur et Hauteur du design général.    
   >**Information**    
   >La taille du design de menu doit correspondre à la taille des designs qui seront liés.      
@@ -181,10 +181,8 @@ La page est divisée en plusieurs parties :
   * **Taille du menu** *(en pixels)* : Longueur et Hauteur du menu.
   * **Description** : Courte description des possiblités offertes par le menu.     
 
-
 * **Designs liés et paramètres** :
   * **Ajouter** : Permet de sélectionner les designs liés et les paramètres de personnalisation des boutons du menu *(voir chapitre "Modifier les paramètres")*.    
-
 
 * **Boutons du menu**:
   * **Sauvegarder** : Permet de sauvegarder les dernières modifications.
