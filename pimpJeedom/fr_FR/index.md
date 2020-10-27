@@ -152,14 +152,14 @@ Nous retrouvons sur cette page un bouton pour ajouter un nouveau menu, un lien v
 Pour ajouter un menu by Noodom, cliquez sur le bouton **"Ajouter un menu"** :    
 ![Menu Noodom - Ajouter](../img/AddMenuNoodom.png "Menus by Noodom - Ajouter")
 
-Une fenêtre s'ouvre afin de renseigner les caractéristiques du nouveau widget *(Nom, Version du menu, Longueur et Hauteur du design)*, Validez en cliquant sur le bouton **+ Ajouter** :    
+Une fenêtre s'ouvre afin de renseigner les caractéristiques du nouveau design de menu *(Nom, Version du menu, Longueur et Hauteur du design)*, Validez en cliquant sur le bouton **+ Ajouter** :    
 ![Menu Noodom - Nouveau](../img/NewMenuNoodom.png "Menus by Noodom - Nouveau")
 
 Le nouveau menu est enregistré et vous arrivez directement sur la page de gestion de ce menu :   
 ![Menu Noodom - Détails](../img/PageMenuNoodom.png "Menus by Noodom - Détails")
 
 >**Important**    
->Il est nécessaire de rafraîchir la page pour voir apparaitre le nouveau design dans le menu général *Accueuil → Design*.
+>Il est nécessaire de rafraîchir la page pour voir apparaitre le nouveau design dans le menu général *Accueil → Design*.
 
 -----------------
 
