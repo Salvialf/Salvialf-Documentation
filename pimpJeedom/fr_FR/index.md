@@ -137,6 +137,7 @@ En cliquant sur le widget disposant d'une mise à jour on constate que le champ 
 ## Menus made by Noodom (BETA)
 
 Les menus de designs réalisés par Noodom fonctionnent sur le principe de la navigation par iframe ce qui offre, entre autres, un gain de performance lors de l'accès à vos designs car le menu ne sera chargé qu'une seule fois par le navigateur.     
+![Menu Noodom - Exemple](../img/ExampleMenuNoodom.png "Menus by Noodom - Exemple")
 
 Un menu est un design général qui va intégrer la visualisation des designs dits "standard" auxquels seront liés les boutons de navigation du menu. L'accès par défaut doit donc s'effectuer sur le design de menu. Pour plus d'informations, consultez la [Documentation des menus by Noodom](https://github.com/noodom/jeedom_menus){:target="\_blank"}.
 
@@ -152,7 +153,7 @@ Nous retrouvons sur cette page un bouton pour ajouter un nouveau menu, un lien v
 Pour ajouter un menu by Noodom, cliquez sur le bouton **"Ajouter un menu"** :    
 ![Menu Noodom - Ajouter](../img/AddMenuNoodom.png "Menus by Noodom - Ajouter")
 
-Une fenêtre s'ouvre afin de renseigner les caractéristiques du nouveau design de menu *(Nom, Version du menu, Longueur et Hauteur du design)*, Validez en cliquant sur le bouton **+ Ajouter** :    
+Une fenêtre s'ouvre afin de renseigner les caractéristiques du nouveau design de menu *(Nom, Version du menu, Longueur et Hauteur du design)*, Validez en cliquant sur le bouton **Ajouter** :    
 ![Menu Noodom - Nouveau](../img/NewMenuNoodom.png "Menus by Noodom - Nouveau")
 
 Le nouveau menu est enregistré et vous arrivez directement sur la page de gestion de ce menu :   
@@ -178,12 +179,10 @@ La page est divisée en plusieurs parties :
 
   * **Nom du menu** : Liste déroulante permettant de choisir le menu qui doit être appliqué.
   * **Taille du menu** *(en pixels) : Longueur et Hauteur du menu.
-  * **Description** : Courte description des possiblités offertes par le menu.  
-
+  * **Description** : Courte description des possiblités offertes par le menu.     
 
 * **Designs liés et paramètres** :
-  * **+ ajouter** : Permet de sélectionner les designs liés et les paramètres de personnalisation des boutons du menu *(voir chapitre "Modifier les paramètres")*.
-
+  * **Ajouter** : Permet de sélectionner les designs liés et les paramètres de personnalisation des boutons du menu *(voir chapitre "Modifier les paramètres")*.    
 
 * **Boutons du menu**:
   * **Sauvegarder** : Permet de sauvegarder les dernières modifications.
@@ -191,7 +190,7 @@ La page est divisée en plusieurs parties :
 
 ### Modifier les paramètres
 
-Tous les menus proposent différentes options de personnalisation mais ont en commun **la sélection d'un design lié à chaque bouton du menu via une liste déroulante** reprenant les designs existants.
+Tous les menus proposent différentes options de personnalisation mais ont en commun **la sélection d'un design lié à chaque bouton du menu** via une liste déroulante reprenant les designs existants.
 
 Les autres options disponibles sont :    
 * **Icône** : Pour sélectioner une icône ou une image à appliquer sur le bouton. Le bouton **Choisir** sur la droite permet de sélectionner, selon l'onglet, une icône présente dans Jeedom ou une image présente dans le répertoire `data/img/`.    
