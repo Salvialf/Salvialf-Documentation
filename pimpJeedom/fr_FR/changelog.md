@@ -9,7 +9,7 @@ pluginId: pimpJeedom
 
 ## 26-10-2020 (BETA)
 
-- Intégration des menus pour designs avec navigation par iframe réalisés par [Noodom](https://github.com/noodom){:target="\_blank"}.
+- Intégration des menus pour designs avec navigation par iframe réalisés par [Noodom](https://github.com/noodom/jeedom_menus){:target="\_blank"}.
 
 ## 10-07-2020
 
