@@ -137,6 +137,7 @@ En cliquant sur le widget disposant d'une mise à jour on constate que le champ 
 ## Menus made by Noodom (BETA)
 
 Les menus de designs réalisés par Noodom fonctionnent sur le principe de la navigation par iframe ce qui offre, entre autres, un gain de performance lors de l'accès à vos designs car le menu ne sera chargé qu'une seule fois par le navigateur.     
+
 Un menu est un design général qui va intégrer la visualisation des designs dits "standard" auxquels seront liés les boutons de navigation du menu. L'accès par défaut doit donc s'effectuer sur le design de menu. Pour plus d'informations, consultez la [Documentation des menus by Noodom](https://github.com/noodom/jeedom_menus){:target="\_blank"}.
 
 Pour accéder aux menus réalisés par Noodom, cliquez sur le bouton **Menus made by Noodom** ou sur l'onglet **Menus by** ![Noodom](../../assets/images/noodom.png "Noodom") :    
@@ -165,7 +166,7 @@ Le nouveau menu est enregistré et vous arrivez directement sur la page de gesti
 ### Gérer un menu by Noodom
 
 Pour accéder aux détails d'un menu *made by Noodom* il suffit de cliquer dessus au sein de l'onglet **Menus by** ![Noodom](../../assets/images/noodom.png "Noodom"). Vous arrivez alors sur la page de gestion du menu :    
-![Menu Noodom - Gestion](../img/menuNoodom.png "Menus by Noodom - Gestion")
+![Menu Noodom - Gestion](../img/MenuNoodom.png "Menus by Noodom - Gestion")
 
 La page est divisée en plusieurs parties :
 * **Général**:
@@ -179,8 +180,10 @@ La page est divisée en plusieurs parties :
   * **Taille du menu** *(en pixels) : Longueur et Hauteur du menu.
   * **Description** : Courte description des possiblités offertes par le menu.  
 
+
 * **Designs liés et paramètres** :
   * **+ ajouter** : Permet de sélectionner les designs liés et les paramètres de personnalisation des boutons du menu *(voir chapitre "Modifier les paramètres")*.
+
 
 * **Boutons du menu**:
   * **Sauvegarder** : Permet de sauvegarder les dernières modifications.
@@ -193,7 +196,7 @@ Tous les menus proposent différentes options de personnalisation mais ont en co
 Les autres options disponibles sont :    
 * **Icône** : Pour sélectioner une icône ou une image à appliquer sur le bouton. Le bouton **Choisir** sur la droite permet de sélectioner, selon l'onglet, une icône présente dans Jeedom ou une image présente dans le répertoire `data/img/`.    
 >**Astuce**     
->Sur l'onglet **Image**, le bouton **Envoyer**permet d'ajouter des images directement dans le dossier `data/img/`.
+>Sur l'onglet **Image**, le bouton **Envoyer** permet d'ajouter des images directement dans le dossier `data/img/`.
 
 * **Label** : Permet de saisir le texte du bouton.
 
