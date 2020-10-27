@@ -139,7 +139,7 @@ En cliquant sur le widget disposant d'une mise à jour on constate que le champ 
 Les menus de designs réalisés par Noodom fonctionnent sur le principe de la navigation par iframe ce qui offre, entre autres, un gain de performance lors de l'accès à vos designs car le menu ne sera chargé qu'une seule fois par le navigateur.     
 ![Menu Noodom - Exemple](../img/ExampleMenuNoodom.png "Menus by Noodom - Exemple")
 
-Un menu est un design général qui va intégrer la visualisation des designs dits "standard" auxquels seront liés les boutons de navigation du menu. L'accès par défaut doit donc s'effectuer sur le design de menu. Pour plus d'informations, consultez la [Documentation des menus by Noodom](https://github.com/noodom/jeedom_menus){:target="\_blank"}.
+Un menu est un design général qui va intégrer la visualisation des designs dits "standard" auxquels seront liés les boutons de navigation du menu. L'accès par défaut doit donc s'effectuer sur le design de menu. Pour plus d'informations, consultez la [documentation des menus by Noodom](https://github.com/noodom/jeedom_menus){:target="\_blank"}.
 
 Pour accéder aux menus réalisés par Noodom, cliquez sur le bouton **Menus made by Noodom** ou sur l'onglet **Menus by** ![Noodom](../../assets/images/noodom.png "Noodom") :    
 ![Menus by Noodom](../img/menusNoodomGeneral.png "Menus by Noodom")
@@ -172,17 +172,19 @@ Pour accéder aux détails d'un menu *made by Noodom* il suffit de cliquer dessu
 La page est divisée en plusieurs parties :
 * **Général**:
   * **Nom du design général** : le nom donné au design par lequel s'efectue l'accès.
-  * **Taille du design** *(en pixels) : Longueur et Hauteur du design général.    
+  * **Taille du design** *(en pixels)* : Longueur et Hauteur du design général.    
   >**Information**    
   >La taille du design de menu doit correspondre à la taille des designs qui seront liés.      
 
 
   * **Nom du menu** : Liste déroulante permettant de choisir le menu qui doit être appliqué.
-  * **Taille du menu** *(en pixels) : Longueur et Hauteur du menu.
+  * **Taille du menu** *(en pixels)* : Longueur et Hauteur du menu.
   * **Description** : Courte description des possiblités offertes par le menu.     
+
 
 * **Designs liés et paramètres** :
   * **Ajouter** : Permet de sélectionner les designs liés et les paramètres de personnalisation des boutons du menu *(voir chapitre "Modifier les paramètres")*.    
+
 
 * **Boutons du menu**:
   * **Sauvegarder** : Permet de sauvegarder les dernières modifications.
