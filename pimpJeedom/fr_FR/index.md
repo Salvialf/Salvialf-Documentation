@@ -153,7 +153,7 @@ Nous retrouvons sur cette page un bouton pour ajouter un nouveau menu, un lien v
 Pour ajouter un menu by Noodom, cliquez sur le bouton **"Ajouter un menu"** :    
 ![Menu Noodom - Ajouter](../img/AddMenuNoodom.png "Menus by Noodom - Ajouter")
 
-Une fenêtre s'ouvre afin de renseigner les caractéristiques du nouveau design de menu *(Nom, Version du menu, Longueur et Hauteur du design)*, Validez en cliquant sur le bouton **Ajouter** :    
+Une fenêtre s'ouvre afin de renseigner les caractéristiques du nouveau design de menu *(Nom, Version du menu, Longueur et Hauteur du design)*, validez en cliquant sur le bouton **Ajouter** :    
 ![Menu Noodom - Nouveau](../img/NewMenuNoodom.png "Menus by Noodom - Nouveau")
 
 Le nouveau menu est enregistré et vous arrivez directement sur la page de gestion de ce menu :   
@@ -176,15 +176,14 @@ La page est divisée en plusieurs parties :
   >**Information**    
   >La taille du design de menu doit correspondre à la taille des designs qui seront liés.      
 
-
   * **Nom du menu** : Liste déroulante permettant de choisir le menu qui doit être appliqué.
   * **Taille du menu** *(en pixels)* : Longueur et Hauteur du menu.
-  * **Description** : Courte description des possiblités offertes par le menu.     
+  * **Description** : Courte description des possibilités offertes par le menu.     
 
 * **Designs liés et paramètres** :
   * **Ajouter** : Permet de sélectionner les designs liés et les paramètres de personnalisation des boutons du menu *(voir chapitre "Modifier les paramètres")*.    
 
-* **Boutons du menu**:
+* **Boutons du menu** :
   * **Sauvegarder** : Permet de sauvegarder les dernières modifications.
   * **Supprimer** : Pour supprimer le design de menu.
 
@@ -193,7 +192,7 @@ La page est divisée en plusieurs parties :
 Tous les menus proposent différentes options de personnalisation mais ont en commun **la sélection d'un design lié à chaque bouton du menu** via une liste déroulante reprenant les designs existants.
 
 Les autres options disponibles sont :    
-* **Icône** : Pour sélectioner une icône ou une image à appliquer sur le bouton. Le bouton **Choisir** sur la droite permet de sélectionner, selon l'onglet, une icône présente dans Jeedom ou une image présente dans le répertoire `data/img/`.    
+* **Icône** : Pour sélectionner une icône ou une image à appliquer sur le bouton. Le bouton **Choisir** sur la droite permet de sélectionner, selon l'onglet, une icône présente dans Jeedom ou une image présente dans le répertoire `data/img/`.    
 >**Astuce**     
 >Sur l'onglet **Image**, le bouton **Envoyer** permet d'ajouter des images directement dans le dossier `data/img/`.
 
