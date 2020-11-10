@@ -7,6 +7,9 @@ pluginId: pimpJeedom
 
 # Changelog
 
+## 10-11-2020 (BETA)
+- Ajout du widget **ButtonIcon** pour commandes action/défaut.
+
 ## 26-10-2020 (BETA)
 
 - Intégration des menus pour designs avec navigation par iframe réalisés par [Noodom](https://github.com/noodom/jeedom_menus){:target="\_blank"}.
