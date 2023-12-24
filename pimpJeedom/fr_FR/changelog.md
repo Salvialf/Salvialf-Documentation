@@ -7,7 +7,12 @@ pluginId: pimpJeedom
 
 # Changelog
 
+## 24-12-2023
+
+- Version minimale du core Jeedom requise : 4.2
+
 ## 10-11-2020 (BETA)
+
 - Ajout du widget **ButtonIcon** pour commandes action/défaut.
 
 ## 26-10-2020 (BETA)
