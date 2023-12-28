@@ -7,9 +7,10 @@ pluginId: pimpJeedom
 
 # Changelog
 
-## 24-12-2023
+## 28-12-2023
 
 - Version minimale du core Jeedom requise : 4.2
+- Passage Beta en Stable
 
 ## 10-11-2020 (BETA)
 
@@ -28,7 +29,7 @@ pluginId: pimpJeedom
 - Ajout du widget **IconInfo** pour commandes info/binaire.
 - Ajout du widget **IconAction** pour commandes action/défaut.
 - Remplacement eqLogic par Config -> nécessite la mise à jour de tous les widgets déjà installés. (merci @naboleo)
-- Passage de la dernière BETA en STABLE.
+- Passage Beta en Stable
 
 ## 16-06-2020 (BETA)
 
@@ -42,7 +43,7 @@ pluginId: pimpJeedom
 
 ## 12-06-2020
 
-- Passage BETA en STABLE. (Il peut être nécessaire de réappliquer certains paramètres sur quelques widgets)
+- Passage Beta en Stable. *(Il peut être nécessaire de réappliquer certains paramètres sur quelques widgets)*
 
 ## 10-06-2020 (BETA)
 
@@ -76,11 +77,11 @@ pluginId: pimpJeedom
 
 ## 01-06-2020
 
-- Passage du plugin en STABLE.
+- Passage du plugin en Stable.
 
 ## 28-05-2020
 
-- Mise à disposition du plugin en BETA.
+- Mise à disposition du plugin en Beta.
 
 # Documentation
 
